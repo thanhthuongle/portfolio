@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "about": "About",
+    "education": "Education",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "scroll": "Scroll down",
+    "viewProjects": "View projects",
+    "downloadCV": "Download CV"
+  },
+  "about": {
+    "heading": "About",
+    "subtitle": "A bit about me"
+  },
+  "education": {
+    "heading": "Education",
+    "subtitle": "Academic background"
+  },
+  "experience": {
+    "heading": "Experience",
+    "subtitle": "My work journey",
+    "tech": "Tech used"
+  },
+  "projects": {
+    "heading": "Projects",
+    "subtitle": "Selected work",
+    "demo": "Live demo",
+    "source": "Source"
+  },
+  "skills": {
+    "heading": "Skills & Tech Stack",
+    "subtitle": "Tools I work with"
+  },
+  "contact": {
+    "heading": "Contact",
+    "subtitle": "Let's work together",
+    "intro": "Have a project or opportunity in mind? Get in touch.",
+    "emailMe": "Email me",
+    "or": "or connect via"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "backToTop": "Back to top",
+    "builtWith": "Built with React & Tailwind CSS"
+  },
+  "lang": {
+    "switchTo": "Switch to Vietnamese"
+  },
+  "theme": {
+    "toLight": "Switch to light mode",
+    "toDark": "Switch to dark mode"
+  }
+}

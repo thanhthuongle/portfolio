@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "about": "Giới thiệu",
+    "education": "Học vấn",
+    "experience": "Kinh nghiệm",
+    "projects": "Dự án",
+    "skills": "Kỹ năng",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "greeting": "Xin chào, tôi là",
+    "scroll": "Cuộn xuống",
+    "viewProjects": "Xem dự án",
+    "downloadCV": "Tải CV"
+  },
+  "about": {
+    "heading": "Giới thiệu",
+    "subtitle": "Đôi nét về tôi"
+  },
+  "education": {
+    "heading": "Học vấn",
+    "subtitle": "Quá trình học tập"
+  },
+  "experience": {
+    "heading": "Kinh nghiệm",
+    "subtitle": "Hành trình làm việc",
+    "tech": "Công nghệ sử dụng"
+  },
+  "projects": {
+    "heading": "Dự án",
+    "subtitle": "Một vài sản phẩm tiêu biểu",
+    "demo": "Xem demo",
+    "source": "Mã nguồn"
+  },
+  "skills": {
+    "heading": "Kỹ năng & Tech Stack",
+    "subtitle": "Công cụ tôi sử dụng"
+  },
+  "contact": {
+    "heading": "Liên hệ",
+    "subtitle": "Cùng hợp tác nhé",
+    "intro": "Bạn có dự án hay cơ hội phù hợp? Hãy liên hệ với tôi.",
+    "emailMe": "Gửi email",
+    "or": "hoặc kết nối qua"
+  },
+  "footer": {
+    "rights": "Bảo lưu mọi quyền.",
+    "backToTop": "Lên đầu trang",
+    "builtWith": "Xây dựng bằng React & Tailwind CSS"
+  },
+  "lang": {
+    "switchTo": "Chuyển sang Tiếng Anh"
+  },
+  "theme": {
+    "toLight": "Chuyển sang giao diện sáng",
+    "toDark": "Chuyển sang giao diện tối"
+  }
+}
