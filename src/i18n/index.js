@@ -5,7 +5,7 @@ import vi from './vi.json';
 import en from './en.json';
 
 i18n
-  // .use(LanguageDetector)
+  .use(LanguageDetector)
   .use(initReactI18next)
   .init({
     resources: {
@@ -16,7 +16,9 @@ i18n
     supportedLngs: ['vi', 'en'],
     interpolation: { escapeValue: false },
     detection: {
-      order: ['localStorage', 'navigator'],
+      // Chỉ đọc/ghi từ localStorage để F5 giữ đúng ngôn ngữ đã chọn;
+      // lần đầu chưa có lưu sẽ rơi về fallbackLng ('en').
+      order: ['localStorage'],
       lookupLocalStorage: 'lang',
       caches: ['localStorage'],
     },
