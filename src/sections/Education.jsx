@@ -11,7 +11,7 @@ export default function Education() {
   const { pick } = useLang();
 
   return (
-    <section id="education" className="py-24 sm:py-32">
+    <section id="education" className="py-12 sm:py-16">
       <div className="container-page">
         <SectionHeading eyebrow={t('education.subtitle')} title={t('education.heading')} />
 

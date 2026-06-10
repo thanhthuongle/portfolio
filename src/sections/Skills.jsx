@@ -51,7 +51,7 @@ export default function Skills() {
   }, [activeTab]);
 
   return (
-    <section id="skills" className="bg-surface/40 py-24 sm:py-32">
+    <section id="skills" className="bg-surface/40 py-12 sm:py-16">
       <div className="container-page">
         <motion.div
           {...reveal()}

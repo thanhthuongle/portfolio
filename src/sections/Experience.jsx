@@ -12,7 +12,7 @@ export default function Experience() {
   const { pick } = useLang();
 
   return (
-    <section id="experience" className="bg-surface/40 py-24 sm:py-32">
+    <section id="experience" className="bg-surface/40 py-12 sm:py-16">
       <div className="container-page">
         <SectionHeading eyebrow={t('experience.subtitle')} title={t('experience.heading')} />
 

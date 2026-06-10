@@ -13,7 +13,7 @@ export default function About() {
   const { pick } = useLang();
 
   return (
-    <section id="about" className="py-24 sm:py-32">
+    <section id="about" className="py-12 sm:py-16">
       <div className="container-page">
         <SectionHeading eyebrow={t('about.subtitle')} title={t('about.heading')} />
 

@@ -88,7 +88,7 @@ export default function Projects() {
   const { t } = useTranslation();
 
   return (
-    <section id="projects" className="py-24 sm:py-32">
+    <section id="projects" className="py-12 sm:py-16">
       <div className="container-page">
         <SectionHeading eyebrow={t('projects.subtitle')} title={t('projects.heading')} />
 

@@ -10,7 +10,7 @@ export default function Contact() {
   const { t } = useTranslation();
 
   return (
-    <section id="contact" className="py-24 sm:py-32">
+    <section id="contact" className="py-12 sm:py-316">
       <div className="container-page">
         <motion.div
           {...reveal()}
