@@ -1,8 +1,3 @@
-// ============================================================
-// GIỚI THIỆU BẢN THÂN.
-// paragraphs: mảng các đoạn văn song ngữ.
-// stats: số liệu nổi bật hiển thị ở mục About.
-// ============================================================
 export const about = {
   paragraphs: [
     {
@@ -15,8 +10,8 @@ export const about = {
     },
   ],
   stats: [
-    { value: '3+', label: { vi: 'Năm kinh nghiệm', en: 'Years experience' } },
-    { value: '20+', label: { vi: 'Dự án hoàn thành', en: 'Projects shipped' } },
-    { value: '10+', label: { vi: 'Khách hàng', en: 'Happy clients' } },
+    { value: '1+', label: { vi: 'Năm kinh nghiệm', en: 'Years experience' } },
+    { value: '10+', label: { vi: 'Dự án hoàn thành', en: 'Projects shipped' } },
+    { value: '12+', label: { vi: 'Công nghệ đã sử dụng', en: 'Technologies explored' } },
   ],
 };

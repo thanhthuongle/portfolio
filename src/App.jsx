@@ -16,12 +16,11 @@ export default function App() {
       <Navbar />
       <main>
         <Hero />
-        {/* <About /> */}
+        <About />
         <Education />
         <Experience />
         <Projects />
-        {/* TODO: add skills */}
-        {/* <Skills /> */}
+        <Skills />
         <Contact />
       </main>
       <Footer />
