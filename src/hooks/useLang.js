@@ -9,10 +9,10 @@ import { useTranslation } from 'react-i18next';
  */
 export function useLang() {
   const { i18n } = useTranslation();
-  const lang = i18n.language?.startsWith('en') ? 'en' : 'vi';
+  const lang = i18n.language?.startsWith('vi') ? 'vi' : 'en';
   const pick = (value) => {
     if (value == null) return '';
-    if (typeof value === 'object') return value[lang] ?? value.vi ?? '';
+    if (typeof value === 'object') return value[lang] ?? value.en ?? '';
     return value;
   };
   return { pick, lang };
