@@ -5,7 +5,7 @@ import vi from './vi.json';
 import en from './en.json';
 
 i18n
-  .use(LanguageDetector)
+  // .use(LanguageDetector)
   .use(initReactI18next)
   .init({
     resources: {
