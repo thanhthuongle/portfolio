@@ -10,20 +10,20 @@ export const experience = [
     },
     period: '12/2025 - 06/2026',
     description: {
-      vi: `Phát triển và bảo trì 4+ ứng dụng web nội bộ phục vụ nghiệp vụ tài chính bằng ReactJS, NuxtJS và Laravel.
+      vi: `Phát triển và bảo trì 4+ ứng dụng web nội bộ phục vụ nghiệp vụ tài chính bằng ReactJS, NuxtJS, NodeJS và Laravel.
       Thiết kế và tích hợp RESTful API, đảm bảo luồng dữ liệu ổn định và hiệu quả giữa các dịch vụ.
       Làm việc với MySQL để xử lý dữ liệu tài chính, bao gồm truy vấn, tối ưu hóa và đảm bảo tính nhất quán dữ liệu.
       Sử dụng Docker để thiết lập và quản lý môi trường phát triển.
       Cải thiện hiệu năng API và độ ổn định hệ thống thông qua việc gỡ lỗi và tái cấu trúc mã nguồn cũ.
       Phối hợp với các nhóm liên quan để phát triển các tính năng có khả năng mở rộng và dễ bảo trì.`,
-      en: `Developed, maintained 4+ internal web applications for financial operations using ReactJS, NuxtJS, and Laravel.
+      en: `Developed, maintained 4+ internal web applications for financial operations using ReactJS, NuxtJS, NodeJS and Laravel.
       Designed and integrated RESTful APIs, ensuring stable and efficient data flow across services.
       Worked with MySQL to handle financial data, including querying, optimization, and data consistency.
       Used Docker to set up and manage development environment.
       Improved API performance and system reliability through debugging and refactoring legacy code.
       Collaborated with cross - functional teams to deliver scalable and maintainable features.`,
     },
-    tech: ['TypeScript', 'React', 'Nuxt', 'Laravel', 'MySQL', 'REST API'],
+    tech: ['TypeScript', 'React', 'Nuxt', 'NodeJS', 'Laravel', 'MySQL', 'REST API'],
   },
   {
     company: {
